@@ -29,7 +29,5 @@
 
 ![image_processing20191129-26734-6lp0s5](https://user-images.githubusercontent.com/61818171/154833178-74039aaf-158e-4153-8053-d7e135fde257.gif)
  
-  ![Snake animation](https://github.com/rafaballerini/volkdevelop/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
