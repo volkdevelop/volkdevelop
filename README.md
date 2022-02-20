@@ -24,7 +24,7 @@
  
 <div> 
   <a href="https://instagram.com/vini_gabc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "viniciuscarvalho.silva676@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:viniciuscarvalho.silva676@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-carvalho-59a420213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![image_processing20191129-26734-6lp0s5](https://user-images.githubusercontent.com/61818171/154833178-74039aaf-158e-4153-8053-d7e135fde257.gif)
