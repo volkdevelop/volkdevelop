@@ -4,7 +4,6 @@
 - 👯 Estou procurando colaborar em tudo que eu começar a aprender, vou compartilhar diretamente no GITHUB na esperança de ajudar alguém futuramente !!
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidades: Comecei a programar com o intuito de desenvolver jogos, mas no momento dei uma pausa no meu sonho para aprender outros estilos de programação e me aprofundar nesse mundo !
--->
 
 <div align="center">
   <a href="https://github.com/volkdevelop">
