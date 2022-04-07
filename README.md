@@ -1,4 +1,7 @@
 ##  Olá, eu sou o Vini 🖐👋
+
+![image_processing20191129-26734-6lp0s5](https://user-images.githubusercontent.com/61818171/154833178-74039aaf-158e-4153-8053-d7e135fde257.gif)
+
 - 💻 Estudante de Sistema de Informação- 5º Período
 - 🌱 Estudando: Atualmente to estudando Python e JavaScript ...
 - 👯 Estou procurando colaborar em tudo que eu começar a aprender, vou compartilhar diretamente no GITHUB na esperança de ajudar alguém futuramente !!
