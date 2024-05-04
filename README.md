@@ -13,11 +13,10 @@
   <h1 align="center">Sobre mim 😶‍🌫️</h1>
   
 
-- 💻 Estudante de Sistema de Informação- 5º Período
-- 🌱 Estudando: Atualmente estou estudando JAVA e tecnologia WEB ...
-- 👯 Estou procurando colaborar em tudo que eu começar a aprender, vou compartilhar diretamente no GITHUB na esperança de ajudar alguém futuramente !!
-- 😄 Pronomes: ele/dele
-- ⚡ Curiosidades: Comecei a programar com o intuito de desenvolver jogos, mas no momento dei uma pausa no meu sonho para aprender outros estilos de programação e me aprofundar nesse mundo de tantas possibilidades!!!
+- 💻 Bacharel em Sistema de Informação
+- 🌱 Estudando: Atualmente estou estudando C# e .NET ...
+- 👯 Procuro colaborar ao mesmo tempo que aprendo, compartilhando no GITHUB na esperança de ajudar alguém futuramente !!
+- 🎮 Meu sonho é trabalhar exclusivamente com o desenvolvimento de Jogos, já tendo produzido diversos projetos pequenos disponíveis no meu Git.
 
  <h1 align= "center">Conhecimentos 😤</h1>
   
@@ -25,7 +24,6 @@
   <img align="start-content" alt="Vini-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="start-content" alt="Vini-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="start-content" alt="Vini-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="start-content" alt="Vini-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
   ##
